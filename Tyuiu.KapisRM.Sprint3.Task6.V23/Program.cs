@@ -9,12 +9,12 @@ namespace Tyuiu.KapisRM.Sprint3.Task6.V23
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #4 | Выполнил: Капис Р. М. | СМАРТб-26-1";
+            Console.Title = "Спринт #3 | Выполнил: Капис Р. М. | СМАРТб-26-1";
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Вложенные циклы                                                   *");
+            Console.WriteLine("* Спринт #3                                                               *");
+            Console.WriteLine("* Тема: Обработка целочисленной информации                                *");
             Console.WriteLine("* Вариант #23                                                             *");
-            Console.WriteLine("* Выполнил: Капис Роман Максимович | СМАРТб-26-1                            *");
+            Console.WriteLine("* Выполнил: Капис Роман Максимович | СМАРТб-26-1                          *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Найти количество всех делителей меньше 11 для целых чисел               *");
